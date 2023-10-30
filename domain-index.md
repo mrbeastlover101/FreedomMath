@@ -11,13 +11,8 @@ layout: default
 4. Disguised website: [classroom.google.uk.to](https://classroom.google.uk.to)
 5. Development site: [beta.freedombrowser.stonklat.com](https://stonklat.com/freedombrowser)
 
-<details>
-<summary>Other Domains (or pages)</summary>
-
-### Active
+## Other domains
 1. Developer site: [freedombrowser.github.io](https://freedombrowser.github.io)
 2. Domain Index: _you're here_
 3. Backend domain: [stonklat.com](https://stonklat.com)
 4. Minecraft domain: [mc.stonklat.com](http://mc.stonklat.com)
-
-</details>
