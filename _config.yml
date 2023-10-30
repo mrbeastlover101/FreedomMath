@@ -6,3 +6,5 @@ url: https://freedombrowser.github.io
 title: Freedombrowser Repositories
 description: The code behind many of our browser's utilities.
 show_downloads: false
+github:
+  repository_url: https://github.com/freedombrowser

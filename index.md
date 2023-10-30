@@ -22,9 +22,9 @@ Our main domain is freedombrowser.org but we have multiple other domains; if one
 Recently we have been branching out and starting to develop our own software so we thought, why not make it public?
 
 ## Our services
-> [Games hosting](https://freedombrowser.org/allgames)
-> [Site unblocker](https://freedombrowser.org/browser) (Using Titanium Network's proxy software)
-> [Search engine](https://freedombrowser.org/search)
-> [Minecraft](https://freedombrowser.org/minecraft) (An Anarchy Minecraft server fully playable in your browser thanks to the magic of eaglercraft)
-> [Chat](https://freedombrowser.org/chat)
-> [GCSE papers](https://freedombrowser.org/gcse)
+*   [Games hosting](https://freedombrowser.org/allgames)
+*   [Site unblocker](https://freedombrowser.org/browser) (Using Titanium Network's proxy software)
+*   [Search engine](https://freedombrowser.org/search)
+*   [Minecraft](https://freedombrowser.org/minecraft) (An Anarchy Minecraft server fully playable in your browser thanks to the magic of eaglercraft)
+*   [Chat](https://freedombrowser.org/chat)
+*   [GCSE papers](https://freedombrowser.org/gcse)
